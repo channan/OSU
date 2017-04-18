@@ -1,4 +1,7 @@
 # OSU
 Programming projects from school.
-Project 1 - Langton's Ant simulation introducing us to 2d dynamic arrays and memory management.
-Project 2 - 
+<p>Project 1 - Langton's Ant simulation</p>
+<p>Project 2 - Shopping list</p>
+<p>Project 3 - Fighting game</p>
+<p>Project 4 - Tournament style fighting game</p>
+<p>Final - Zelda esque dungeon crawler</p>
