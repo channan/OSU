@@ -1,8 +1,4 @@
 # OSU
-Programming projects from school.
-<h3>CS162</h3>
-<p>Project 1 - Langton's Ant simulation</p>
-<p>Project 2 - Shopping list</p>
-<p>Project 3 - Fighting game</p>
-<p>Project 4 - Tournament style fighting game</p>
-<p>Final - Zelda esque dungeon crawler</p>
+Collection of programming projects and assignments while attending OSU.
+<h3>CS162 - Introduction to Computer Science II</h3>
+<h3>CS271 - Computer Architecture and Assembly Language</h3>
